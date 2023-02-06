@@ -1,0 +1,1 @@
+PyCharm é um ambiente de desenvolvimento integrado usado para programação em Python

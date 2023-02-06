@@ -1,0 +1,10 @@
+Uma variável só passa a existir quando atribuímos um valor em Python.
+É preciso atribuir um valor para inicializar uma variável, definindo assim o seu tipo.
+(tipagem dinâmica)
+
+ Python variables are of four different type:
+   -  Integer
+   -  Long Integer
+   - Float
+   - String
+

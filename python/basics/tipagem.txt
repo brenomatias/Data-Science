@@ -1,0 +1,3 @@
+ no mundo Python não somos obrigados a definir explicitamente o tipo da variável
+
+O tipo da variável muda dinamicamente, de acordo com o valor que é atribuído a ela, logo, o tipo da variável é definido de acordo com o valor que ela guarda, isso faz parte da tipagem dinâmica do Python.
