@@ -1,4 +1,4 @@
-def nome_da_funcao():
+def function():
     # todo o código identado faz parte da função
     print("aprendendo funções")
 
