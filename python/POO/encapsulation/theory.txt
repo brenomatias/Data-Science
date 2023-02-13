@@ -1,0 +1,3 @@
+Em sistemas de software, o encapsulamento refere-se ao agrupamento de dados com os mecanismos ou métodos que operam nos dados ou à limitação do acesso direto a alguns dados, como os componentes de um objeto
+
+A ação de tornar privado o acesso aos atributos, no mundo Orientado a Objetos, chamamos de encapsulamento. Com isso, definimos que o acesso deve ocorrer apenas por meio dos métodos.

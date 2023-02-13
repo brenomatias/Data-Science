@@ -1,0 +1,37 @@
+ A ciência deste paradigma é juntar dados e procedimentos, enfim, funcionalidades
+ Base de tudo: juntar tudo relacionado a um objeto (atributos de um objeto e suas funcionalidades)
+
+ No mundo procedural a ligação das funcionalidades de um objeto são frágeis. Forçar a aplicação dos atributos e funcionalidades especificas para cada funçao(classe) de criação de objeto
+ 
+ Forçar o que um objeto tem e pode fazer
+
+ IDEIA CENTRAL: Dado e funcionalidade (comportamentos) andam juntos.
+
+  Uma classe tem: atributos(caracteristicas) e métodos( funções - o que o objeto pode fazer)
+
+ O uso de encapsulamentos é uma característica da Orientação a Objetos.
+
+O que aprendemos?
+
+    * Dicionário
+    * Funções
+    * Encapsulamento de código
+    *  Classes
+    * Objetos
+    * Função construtora
+    * Endereço e referência de objetos
+    * Atributos de classe
+    * Acesso aos atributos através do objeto
+    * Métodos, que definem o comportamento de uma classe
+    * Criação de métodos
+    * Como chamar métodos através do objeto
+    * Acesso aos atributos através do self
+    * Garbage Collector
+    * O tipo None
+    * Atributos privados
+    * Encapsulamento de código
+    * Encapsulamento da manipulação dos atributos nos métodos
+    * Coesão do código
+    * Métodos de leitura dos atributos, os getters
+    * Métodos de modifição dos atributos, os setters
+    * Propriedades

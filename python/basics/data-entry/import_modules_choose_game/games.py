@@ -1,7 +1,8 @@
+import game1_guess as guess
+import game2_forca as forca
+
 def choose_game():   
     print("Choose your game")
-    import game1_guess as guess
-    import game2_forca as forca
     # modulos que são definidos em função nao sao executados diretamente (se a fun nao for chamada no mesmo modulo)
     # importa e executa os módulos diretamente (isso se o módulo importado não for uma func definida)
     # se a função for chamada no fim do módulo, ela e executada também

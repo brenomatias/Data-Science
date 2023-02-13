@@ -1,0 +1,15 @@
+o paradigma da Orientação a Objetos está relacionado com a organização do código
+
+O paradigma Orientado a Objetos nos incentiva a agrupar funcionalidades relacionadas em um mesmo lugar.
+
+Uma CLASSE é uma FORMA de DEFINIR UM TIPO DE DADO em uma linguagem orientada a objeto. Ela é formada por DADOS E COMPORTAMENTOS. Para definir os dados são utilizados os atributos, e para definir o comportamento são utilizados métodos.
+
+uma classe pode gerar vários objetos
+
+Uma classe é uma especificação de um tipo, definindo valores e comportamentos.
+
+Um objeto é uma instância (concretização?) de uma classe onde podemos definir valores para seus atributos.
+
+Em Orientação a Objetos, as variáveis são denominadas: referências.
+
+Os atributos são as características que especificam uma classe.
